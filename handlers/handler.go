@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"05_TODO-with_DB-MultipleUser_Authenticated/database/dbHelper"
-	"05_TODO-with_DB-MultipleUser_Authenticated/models"
+	"02_TODO-with_DB/database/dbHelper"
+	"02_TODO-with_DB/models"
 	"database/sql"
 	"encoding/json"
 	"github.com/gorilla/mux"

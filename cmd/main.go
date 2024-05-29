@@ -1,8 +1,8 @@
 package main
 
 import (
-	"05_TODO-with_DB-MultipleUser_Authenticated/database"
-	"05_TODO-with_DB-MultipleUser_Authenticated/handlers"
+	"02_TODO-with_DB/database"
+	"02_TODO-with_DB/handlers"
 	"fmt"
 	"github.com/gorilla/mux"
 	"log"

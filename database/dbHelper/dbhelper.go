@@ -1,8 +1,8 @@
 package dbHelper
 
 import (
-	"05_TODO-with_DB-MultipleUser_Authenticated/database"
-	"05_TODO-with_DB-MultipleUser_Authenticated/models"
+	"02_TODO-with_DB/database"
+	"02_TODO-with_DB/models"
 	"crypto/rand"
 	"encoding/hex"
 	"errors"
